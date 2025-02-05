@@ -1,4 +1,4 @@
-# GAME RULE
+# 🌀 GAME RULE
 ### Objective: Be the first player to form a straight line of three symbols (X or O) horizontally, vertically, or diagonally.
 ### Game Board: A 3x3 grid where players take turns marking an empty cell with their symbol (X or O).
 ### Turns: Player X always starts first, followed by Player O.
