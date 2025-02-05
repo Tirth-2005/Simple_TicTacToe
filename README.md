@@ -5,3 +5,7 @@
 ### Winning: The player who successfully aligns three of their symbols in a row wins the game.
 ### Draw: If all cells are filled without a winner, the game ends in a draw.
 ### Invalid Moves: Players cannot place a symbol in an already occupied cell.
+
+
+<img src="https://github.com/Tirth-2005/Simple_TicTacToe/blob/master/i1.png" />
+<img src="https://github.com/Tirth-2005/Simple_TicTacToe/blob/master/i2.png" />
